@@ -1,4 +1,4 @@
-rolet nombre = "pedroooooooo montalvo";
+let nombre = "pedroooooooo montalvo";
 
 let apellido = " muñoz";
 let saludo = nombre + apellido
