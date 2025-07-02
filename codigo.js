@@ -1,4 +1,4 @@
-let nombre = "RICARDO ANTONIO montalvo";
+let nombre = "RICARDITO ANTONIO montalvo";
 
 let apellido = " muñoz";
 let saludo = nombre + apellido
